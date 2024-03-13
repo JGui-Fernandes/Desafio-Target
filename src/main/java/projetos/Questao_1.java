@@ -1,4 +1,4 @@
-package org.example;
+package projetos;
 
 public class Questao_1 {
     public static void main(String[] args) {

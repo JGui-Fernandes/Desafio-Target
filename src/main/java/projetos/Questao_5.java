@@ -1,4 +1,4 @@
-package org.example;
+package projetos;
 
 import java.util.Scanner;
 
